@@ -1,0 +1,14 @@
+-----------------------Data 1------------------------
+NAME		:AMAN
+ID		:1
+Rollno		:23
+Course		:JAVA
+Branch		:IT
+Address		:THERGAON,PUNE-33
+-----------------------Data 2------------------------
+NAME		:AYAN
+ID		:23
+Rollno		:13
+Course		:C++
+Branch		:CS
+Address		:PUNE
